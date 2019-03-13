@@ -1,0 +1,63 @@
+Circuit: * C:\Users\atish\Desktop\LTSpice Simulations\Exp 4 - Single Ended to Differential converter using opamp\Single_to_diffn.asc
+
+WARNING: Less than two connections to node VBIAS.  This node is used by V4.
+WARNING: Less than two connections to node VREF.  This node is used by V1.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+Gmin = 0.000223007
+vernier = 0.25
+vernier = 0.333333
+Gmin = 0.000124738
+vernier = 0.444444
+Gmin = 4.81288e-005
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 1.02158e-005
+vernier = 1
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 4.55908e-006
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Wed Mar 13 22:16:22 2019
+Total elapsed time: 35.987 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2240372
+traniter = 2238199
+tranpoints = 620326
+accept = 448567
+rejected = 171759
+matrix size = 42
+fillins = 59
+solver = Normal
+Thread vector: 18.3/7.0[4] 2.3/1.8[4] 2.3/3.9[1] 0.2/0.8[1]  2592/500
+Matrix Compiler1: 4.82 KB object code size  0.9/0.5/[0.3]
+Matrix Compiler2: 4.73 KB object code size  0.5/0.6/[0.4]
+
