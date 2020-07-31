@@ -1,0 +1,60 @@
+Circuit: * D:\LTSpice Simulations\new\EE2019\Final Integration\Final Ckt.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+vernier = 0.25
+Gmin = 0.000567391
+vernier = 0.333333
+vernier = 0.166667
+vernier = 0.222222
+Gmin = 0.00038824
+vernier = 0.296296
+vernier = 0.148148
+Gmin = 0.000239107
+vernier = 0.197531
+Gmin = 0.000156657
+vernier = 0.263374
+vernier = 0.351165
+Gmin = 7.91079e-005
+vernier = 0.46822
+vernier = 0.624294
+Gmin = 2.73621e-005
+vernier = 0.832392
+Gmin = 5.14887e-006
+vernier = 1
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 4.26196e-006
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+vernier = 0.25
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point at 4.20285 ms.
+Trouble finding operating point....skipping operating point for Transient analysis.
+Changing Tseed to 9.76562e-008
+Changing Tseed to 9.76562e-010
+Changing Tseed to 9.76562e-007
+Changing Tseed to 9.76562e-011
